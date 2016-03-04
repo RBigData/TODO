@@ -1,9 +1,9 @@
 # TODO
 
-A to-do list of projects.
+A to-do list of projects.  Not a place for bugs (use the package's issue tracker).
 
 
-## Non-Functional/Incomplete Packages
+## Non-Functional/Incomplete
 * [pbdADIOS](https://github.com/go-ski/pbdADIOS)
 * [pbdMR](https://github.com/wrathematics/pbdMR)
 
