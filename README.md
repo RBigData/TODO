@@ -6,7 +6,7 @@ A to-do list of projects.  Not a place for bugs (use the package's issue tracker
 ## Non-Functional/Incomplete
 * [pbdADIOS](https://github.com/go-ski/pbdADIOS)
 * [pbdMR](https://github.com/wrathematics/pbdMR)
-
+* [pbdRchive](https://github.com/RBigData/pbdRchive) - nightly package builds, ppa, package statistics, etc.
 
 ## Needs Love
 * [pbdML](https://github.com/RBigData/pbdML) - more methods
@@ -20,6 +20,6 @@ A to-do list of projects.  Not a place for bugs (use the package's issue tracker
 
 
 ## Projects
-* pbdRchive - nightly package builds, ppa, package statistics, etc.
 * Parallel IO tools
 * dplasma integration in pbdBASE
+
