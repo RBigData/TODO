@@ -4,8 +4,8 @@ A to-do list of projects.  Not a place for bugs (use the package's issue tracker
 
 
 ## Non-Functional/Incomplete
-* [pbdADIOS](https://github.com/go-ski/pbdADIOS)
-* [pbdMR](https://github.com/wrathematics/pbdMR)
+* [pbdADIOS](https://github.com/go-ski/pbdADIOS) - Interface to the ADIOS I/O library.
+* [pbdMR](https://github.com/wrathematics/pbdMR) - Mapreduce over MPI
 * [pbdRchive](https://github.com/RBigData/pbdRchive) - nightly package builds, ppa, package statistics, etc.
 
 ## Needs Love
